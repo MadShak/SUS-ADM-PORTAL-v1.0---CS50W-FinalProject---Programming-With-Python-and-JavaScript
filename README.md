@@ -165,5 +165,4 @@ In this way, the parties involved would have complete independence when consulti
 * `py manage.py migrate`
 * `py manage.py runserver`
 
-## Youtube demo video: https://www.youtube.com/watch?v=iQmjBr80CaI#   S U S - A D M - P O R T A L - v 1 . 0 - - - C S 5 0 W - F i n a l P r o j e c t - - - P r o g r a m m i n g - W i t h - P y t h o n - a n d - J a v a S c r i p t  
- 
+## Youtube demo video: https://www.youtube.com/watch?v=SGCx_MqUCtQ
