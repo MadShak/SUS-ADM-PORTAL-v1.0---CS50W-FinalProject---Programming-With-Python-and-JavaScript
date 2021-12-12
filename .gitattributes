@@ -1,2 +1,2 @@
-*.css linguist-language=Python
+*.css linguist-language=Django
 *.html linguist-language=Django
