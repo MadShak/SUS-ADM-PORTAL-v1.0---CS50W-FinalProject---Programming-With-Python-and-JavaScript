@@ -1,3 +1,5 @@
-* linguist-vendored
-*.html linguist-vendored=true
-*.python linguist-detectable=true
+static/* linguist-vendored
+SUS-ADM-PORTAL-v1.0---CS50W-FinalProject---Programming-With-Python-and-JavaScript
+/static/* linguist-vendored
+SUS-ADM-PORTAL-v1.0---CS50W-FinalProject---Programming-With-Python-and-JavaScript
+/templates/* linguist-vendored
